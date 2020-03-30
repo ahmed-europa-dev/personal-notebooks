@@ -4,6 +4,6 @@ pip install .
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
 
-https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv
+wget https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv
 
 #EOF
