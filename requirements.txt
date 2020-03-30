@@ -2,3 +2,4 @@ appmode
 pandas
 numpy
 jupyter
+bokeh
